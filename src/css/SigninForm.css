@@ -1,0 +1,19 @@
+.modal-content {
+  background-size: cover;
+  background-image: url("./../images/login.jpg");
+  background-position: top center;
+  background-attachment: fixed;
+  /* background-size: 100% 100%; */
+  background-repeat: no-repeat;
+  overflow: auto;
+  max-height: calc(100vh - 125px);
+}
+.modal-body {
+  margin-top: 19%;
+}
+.alert {
+  display: none;
+}
+.signin {
+  margin-top: 210px;
+}

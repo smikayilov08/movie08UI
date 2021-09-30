@@ -1,0 +1,19 @@
+#modalcontent {
+  background-size: cover;
+  background-image: url("./../images/signup.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  /* background-size: 100% 100%; */
+  background-repeat: no-repeat;
+  overflow: auto;
+  max-height: calc(100vh - 125px);
+}
+#modal-body {
+  margin-top: 13%;
+}
+.alert {
+  display: none;
+}
+.signup {
+  margin-top: 210px;
+}

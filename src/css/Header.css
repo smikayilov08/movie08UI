@@ -1,0 +1,30 @@
+.watchlist {
+  float: right;
+  font-size: 30px;
+  cursor: pointer;
+  color: yellow;
+  text-decoration: none;
+}
+
+.camera {
+  color: yellow;
+  margin-left: -30px;
+}
+.movie08 {
+  color: yellow;
+  font-size: 30px;
+  margin: 0 -10px 0 -28px;
+  text-decoration: none;
+}
+.movie08:hover,
+.movie08:active {
+  text-decoration: none;
+  color: yellow;
+}
+.tmdb {
+  height: 100px;
+  width: 100px;
+}
+.btngrp {
+  margin-left: auto;
+}
